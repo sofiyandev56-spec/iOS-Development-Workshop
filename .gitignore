@@ -6,3 +6,7 @@ xcuserdata/
 DerivedData/
 build/
 *.xcuserstate
+
+# Projects with their own repositories
+# Unfold: https://github.com/sofiyandev56-spec/Unfold
+Unfold/
